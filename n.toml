@@ -1,0 +1,4 @@
+[ngc]
+disp = "NGC"
+desc = "New General Catalogue of Nebulae and Clusters of Stars"
+see = ['ic']

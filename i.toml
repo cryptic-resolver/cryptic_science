@@ -1,0 +1,4 @@
+[ic.star]
+disp = "IC(star)"
+desc = "Index Catalogues"
+see = ['NGC']
