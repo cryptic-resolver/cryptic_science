@@ -1,0 +1,7 @@
+[pvc]
+disp = "PVC"
+desc = "Polyvinyl Chloride"
+
+[pta]
+disp = "PTA"
+desc = "Pure Terephthalic Acid"
