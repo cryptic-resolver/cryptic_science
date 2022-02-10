@@ -12,29 +12,31 @@ gem install cryptic-resolver
 
 <br>
 
-We provide pre-built binaries for `cr` as well via [cr_Go] and [cr_D]
+We provide pre-built binaries for `cr` as well via [cr_D] and [cr_Go]
 
 For Windows user
 ```powershell
-# Go versioned
-scoop install "https://raw.githubusercontent.com/cryptic-resolver/cr_Go/master/install/cryptic-resolver.json"
+# D version (smaller size)
+scoop install "https://raw.githubusercontent.com/cryptic-resolver/cr_D/main/install/cryptic-resolver.json"
 
-# D versioned
-scoop install "https://raw.githubusercontent.com/cryptic-resolver/cr_D/master/install/cryptic-resolver.json"
+# Go version
+scoop install "https://raw.githubusercontent.com/cryptic-resolver/cr_Go/main/install/cryptic-resolver.json"
 ```
+
 
 For Linux user
 ```bash
-# Go versioned
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/master/install/i.sh)"
+# D version
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_D/main/install/i.sh)"
 
-# D versioned
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_D/master/install/i.sh)"
+# Go version (smaller size)
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/main/install/i.sh)"
 ```
+
 
 For macOS user
 ```bash
-# only Go versioned
+# only Go version
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr_Go/master/install/i.sh)"
 
 ```
