@@ -1,4 +1,4 @@
 [ic.star]
-disp = "IC(star)"
+name = "IC(star)"
 desc = "Index Catalogues"
 see = ['NGC']
