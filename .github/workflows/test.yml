@@ -17,6 +17,6 @@ jobs:
     - name: Install dependencies
       run: gem install cr.rb
     - name: Add a dictionary
-      run: cr -a https://github.com/cryptic-resolver/cryptic_computer.git
+      run: cr -a ${{ github.repository }}
     - name: Test every word
-      run: ruby -e "ARGV<<'.'; $(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr.rb/main/bin/test-dict)"
+      run: ruby -e "$(curl -fsSL https://raw.githubusercontent.com/cryptic-resolver/cr.rb/main/bin/test-dict)"
