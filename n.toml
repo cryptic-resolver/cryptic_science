@@ -2,3 +2,7 @@
 name = "NGC"
 desc = "New General Catalogue of Nebulae and Clusters of Stars"
 see = ['ic']
+
+[nirs]
+name = "NIRS"
+desc = "Near-infrared Spectroscopy"
