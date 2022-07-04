@@ -2,3 +2,7 @@
 name = "IC(star)"
 desc = "Index Catalogues"
 see = ['NGC']
+
+[iau]
+name = "IAU"
+desc = "International Astronomical Union"
