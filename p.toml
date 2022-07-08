@@ -5,3 +5,7 @@ desc = "Polyvinyl Chloride"
 [pta]
 name = "PTA"
 desc = "Pure Terephthalic Acid"
+
+[pnt]
+name = "PNT"
+desc = "Positioning, Navigation and Timing"

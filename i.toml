@@ -6,3 +6,7 @@ see = ['NGC']
 [iau]
 name = "IAU"
 desc = "International Astronomical Union"
+
+[iss]
+name = "ISS"
+desc = "International Space Station"
