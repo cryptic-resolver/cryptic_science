@@ -1,0 +1,7 @@
+[tt.Time]
+name = "TT"
+desc = "Terrestrial Time"
+
+[tai.Time]
+name = "TAI"
+desc = "International Atomic Time"
