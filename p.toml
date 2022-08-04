@@ -9,3 +9,7 @@ desc = "Pure Terephthalic Acid"
 [pnt]
 name = "PNT"
 desc = "Positioning, Navigation and Timing"
+
+[pe]
+name = "PE"
+desc = "Polyethylene"
