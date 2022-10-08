@@ -1,3 +1,15 @@
+[pe]
+name = "PE"
+desc = "Polyethylene"
+
+[pp]
+name = "PP"
+desc = "Polypropylene"
+
+[ps]
+name = "PS"
+desc = "Polystyrene"
+
 [pvc]
 name = "PVC"
 desc = "Polyvinyl Chloride"
@@ -9,7 +21,3 @@ desc = "Pure Terephthalic Acid"
 [pnt]
 name = "PNT"
 desc = "Positioning, Navigation and Timing"
-
-[pe]
-name = "PE"
-desc = "Polyethylene"
