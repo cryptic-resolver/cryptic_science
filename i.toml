@@ -10,3 +10,8 @@ desc = "International Astronomical Union"
 [iss]
 name = "ISS"
 desc = "International Space Station"
+
+[ir]
+name = "IR light"
+desc = "Infrared"
+see = 'UV'

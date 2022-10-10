@@ -1,0 +1,4 @@
+[uv]
+name = "UV light"
+desc = "Ultraviolet"
+see = 'IR'
